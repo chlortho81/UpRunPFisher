@@ -12,6 +12,7 @@ import java.util.Scanner;
 public class TravelCosts_Finish {
 
     public static void main(String[] args) {
+    
 //        double distance;
 //        double mpg;
 //        double pricePerGallon;

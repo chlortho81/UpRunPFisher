@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package travelcost;
+import java.util.Scanner;
 
 /**
  *
@@ -15,7 +16,12 @@ public class TravelCost {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        double distance, pricepergallon, mpg, totalCost;
+        
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the total distance in miles :");
+        distance = in.nextDouble();
+                
     }
     
 }
